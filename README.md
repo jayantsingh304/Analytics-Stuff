@@ -9,6 +9,9 @@ The key themes:
    3. Broaden analytical architectures – it’s about much more than traditional structured transaction data
     
    4. Market analytics internally – communication is key
+    
+![alt text](http://timoelliott.com/blog/wp-content/uploads/2013/02/analytic-maturity.jpg)
+  
 
 
 
